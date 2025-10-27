@@ -18,5 +18,3 @@ steps:
       message: "Hello from my custom action!"
 ```
 
-
-Adding a commit after v3 .....
