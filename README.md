@@ -13,6 +13,6 @@ This GitHub Action prints a custom message to the workflow logs.
 ```yaml
 steps:
   - name: Print a message
-    uses: your-username/print-message-action@v1
+    uses: dsp-testing/print-message-action@v1
     with:
       message: "Hello from my custom action!"
